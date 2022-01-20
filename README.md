@@ -3,7 +3,8 @@
 I am a fullstack developer from Toruń, Poland.
 * I am a Laravel enthusiast and use this frameworks in my daily work.
 * In frontend work I am concentrated at Vue.js & Nuxt.js (if SSR needed)
-* Currently work at [RYWAL-RHC](https://rywal.com.pl)
+* Currently working at [Evionica](https://evionica.com/)
+* Previously work at [RYWAL-RHC](https://rywal.com.pl)
 * Maintaining few packages, mostly for sync data between two database, APIs or any data systems
 
 ## Contact with me
@@ -22,5 +23,4 @@ I am a fullstack developer from Toruń, Poland.
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-%2320232a.svg?&style=for-the-badge&logo=nuxt.js)
 ![Tailwind](https://img.shields.io/badge/tailwind-%2320232a.svg?&style=for-the-badge&logo=tailwindcss)
 
-![Flutter](https://img.shields.io/badge/flutter-%2320232a.svg?&style=for-the-badge&logo=flutter)
 ![AWS](https://img.shields.io/badge/aws-%2320232a.svg?&style=for-the-badge&logo=amazon)
