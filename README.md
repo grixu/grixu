@@ -1,7 +1,7 @@
 # Hi, I'm Matthew, but my codename is `grixu`
 
 I am a fullstack developer from Toruń, Poland.
-* I am a Laravel enthusiast and use this frameworks in my daily work.
+* I am a Laravel enthusiast and Vue use this frameworks in my daily work.
 * In frontend work I am concentrated at Vue.js & Nuxt.js (if SSR needed)
 * Currently working at [Evionica](https://evionica.com/)
 * Previously work at [RYWAL-RHC](https://rywal.com.pl)
